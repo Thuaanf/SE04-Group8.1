@@ -1,0 +1,2 @@
+rootProject.name = "Gltf_get_start"
+include ':app'
