@@ -12,4 +12,5 @@ Members of group:
   - Ứng dụng này sẽ giúp người dùng đặt thử sản phẩm(có kích thước giống như ở thế giới thực) vào camera cho người dùng có thể xem.
   
      Nếu không vừa thì người dùng sẽ chọn sản phẩm khác.
+     
      Nếu vừa mà trang trí trông phù hợp với phòng thì người dùng có thể đặt sản phẩm đó.
