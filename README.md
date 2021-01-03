@@ -17,7 +17,7 @@ Members of group:
 ## MỤC TIÊU:
 * Tạo được model 3D 
 * Sử dụng AR SDK để code ứng dụng
-* Hiển thị và demo ứng dụng trên Android
+* Hiển thị và demo ứng dụng trên Android với Google Filament
 ---
 ## CÔNG NGHỆ SỬ DỤNG:
 * ARCore : là một nền tảng của Google dùng để trải nghiệm thực tế ảo tăng cường. ARCore sử dụng các API khác nhau, giúp điện thoại của bạn có thể cảm nhận được môi trường xung quanh, hiểu được thế giới thực và tương tác với các thông tin trong thế giới thực thông qua camera của điện thoại
